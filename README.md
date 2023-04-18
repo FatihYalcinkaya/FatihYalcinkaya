@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" alt="tux">
+<img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" alt="tux" align="right">
 
 
   <h1 align="center">Hi 👋, I'm Fatih</h1>
