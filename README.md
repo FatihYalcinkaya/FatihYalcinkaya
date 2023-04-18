@@ -9,7 +9,7 @@
   - 📫 How to reach me **fthylcnky24@gmail.com**
 
 
-<p align="right">
+<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
