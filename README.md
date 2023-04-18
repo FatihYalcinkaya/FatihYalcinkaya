@@ -5,6 +5,7 @@
 
   - 🌱 I’m currently learning **Python, Web Development, Database Programming**
   - 📫 How to reach me **fthylcnky24@gmail.com**
+<p align="left"> <a href="https://twitter.com/cevmantius" target="blank"><img src="https://img.shields.io/twitter/follow/cevmantius?logo=twitter&style=for-the-badge" alt="cevmantius" /></a> </p>
 
 <p align="left">
 </p>
