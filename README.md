@@ -1,11 +1,13 @@
+<div class="tenor-gif-embed" data-postid="25074749" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/linux-computer-os-ghosth-cyber-gif-25074749">Linux Computer Sticker</a>from <a href="https://tenor.com/search/linux-stickers">Linux Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <h1 align="center">Hi 👋, I'm Fatih</h1>
 <h3 align="center">I am studying computer engineering and i am trying to improve myself.</h3>
+
 
 - 🌱 I’m currently learning **Python, Web Development**
 
 - 📫 How to reach me **fthylcnky24@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
