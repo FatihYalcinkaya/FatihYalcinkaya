@@ -1,7 +1,7 @@
 <img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" alt="tux">
 
 
-<div>
+<div style="text-align:right">
 <h1 align="center">Hi 👋, I'm Fatih</h1>
 <h3 align="center">I am studying computer engineering and trying to improve myself.</h3>
 
