@@ -1,9 +1,7 @@
 <img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" alt="tux" align="right">
 
-  <h1 align="left">Hi 👋, I'm Fatih</h1>
+  <h3 align="left">Hi 👋, I'm Fatih</h3>
   <h3 align="left">I am studying computer engineering and trying to improve myself.</h3>
-
-  - 🌱 I’m currently learning **Python, Web Development, Database Programming**
   - 📫 How to reach me **fthylcnky24@gmail.com**
 
 <p align="left">
