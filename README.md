@@ -11,7 +11,7 @@
 
 <h3>Hi 👋, I'm Fatih</h3>
 <p>I am studying computer engineering and trying to improve myself.</p>
-<p>You can reach me at: <a href="mailto:fthylcnky24@gmail.com">fthylcnky24@gmail.com</a></p>
+<p>You can reach me at: <a href="mailto:yalcinkayafatih@outlook.com">yalcinkayafatih@outlook.com</a></p>
 
 </body>
 </html>
