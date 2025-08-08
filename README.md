@@ -1,17 +1,19 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Profil GIF -->
+<img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" align="right" width="150" />
+# Hi 👋, I'm Fatih
 
-</head>
-<body>
+🎓 Computer Engineering Graduate  
+💡 Linux & Open Source Enthusiast  
+⚙️ Passionate about Backend, DevOps, and Systems Programming  
+🌱 Currently improving myself with real-world projects and learning new technologies
 
-<img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" alt="tux" align="right">
+---
 
-<h3>Hi 👋, I'm Fatih</h3>
-<p>I am studying computer engineering and trying to improve myself.</p>
-<p>You can reach me at: <a href="mailto:yalcinkayafatih@outlook.com">yalcinkayafatih@outlook.com</a></p>
+### 📬 Contact Me
 
-</body>
-</html>
+- 📧 Email: [yalcinkayafatih@outlook.com](mailto:yalcinkayafatih@outlook.com)
+- 💼 LinkedIn: [linkedin.com/in/yalcinkayafatih](www.linkedin.com/in/fatih-yalçınkaya) 
+
+---
+
+> "Talk is cheap. Show me the code." – Linus Torvalds
