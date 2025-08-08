@@ -13,7 +13,3 @@ Hi 👋, I'm Fatih
 
 - 📧 Email: [yalcinkayafatih@outlook.com](mailto:yalcinkayafatih@outlook.com)
 - 💼 LinkedIn: [linkedin.com/in/yalcinkayafatih](www.linkedin.com/in/fatih-yalçınkaya) 
-
----
-
-> "Talk is cheap. Show me the code." – Linus Torvalds
