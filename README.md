@@ -1,6 +1,6 @@
 <!-- Profil GIF -->
 <img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" align="right" width="150" />
-### Hi 👋, I'm Fatih
+Hi 👋, I'm Fatih
 
 🎓 Computer Engineering Graduate  
 💡 Linux & Open Source Enthusiast  
