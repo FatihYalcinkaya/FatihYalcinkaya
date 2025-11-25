@@ -5,6 +5,6 @@ Hi 👋, I'm Fatih
 Computer Engineer & Linux/Open Source enthusiast.
 
 📫 yalcinkayafatih@outlook.com  
-[LinkedIn](https://www.linkedin.com/in/fatih-yal%C3%A7%C4%B1nkaya/)
+🔗 [LinkedIn](https://www.linkedin.com/in/fatih-yal%C3%A7%C4%B1nkaya/)
 
 🛠 Bash | Python | Django | Docker | Git | Linux | Go | Javascript
