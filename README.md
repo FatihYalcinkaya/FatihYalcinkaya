@@ -1,6 +1,6 @@
 <img src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" align="right" width="120" />
 
-# Hi 👋, I'm Fatih
+Hi 👋, I'm Fatih
 
 Computer Engineer & Linux/Open Source enthusiast.
 
