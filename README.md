@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/7c6d2e9e0d2d3c1f8a9a3b10a5f8f7c4/tenor.gif" align="right" width="120" />
+<img src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" align="right" width="120" />
 
 # Hi 👋, I'm Fatih
 
